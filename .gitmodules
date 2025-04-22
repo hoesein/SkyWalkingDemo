@@ -1,0 +1,3 @@
+[submodule "SkyWalking.Domain"]
+	path = SkyWalking.Domain
+	url = https://github.com/hoesein/SkyWalking.Domain.git
