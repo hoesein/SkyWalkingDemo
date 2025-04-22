@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyWalking.Api", "SkyWalking.Api\SkyWalking.Api.csproj", "{E7449DC5-F961-4C36-BC53-B20CCFC1B8A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyWalking.Infra", "SkyWalking.Infra\SkyWalking.Infra.csproj", "{9954D06C-6D65-4C86-AF9D-5139BD7ABCE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyWalking.Service", "SkyWalking.Service\SkyWalking.Service.csproj", "{AFCC3539-99A0-4F7B-A9D9-5C5E15982ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7449DC5-F961-4C36-BC53-B20CCFC1B8A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7449DC5-F961-4C36-BC53-B20CCFC1B8A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7449DC5-F961-4C36-BC53-B20CCFC1B8A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7449DC5-F961-4C36-BC53-B20CCFC1B8A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9954D06C-6D65-4C86-AF9D-5139BD7ABCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9954D06C-6D65-4C86-AF9D-5139BD7ABCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9954D06C-6D65-4C86-AF9D-5139BD7ABCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9954D06C-6D65-4C86-AF9D-5139BD7ABCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCC3539-99A0-4F7B-A9D9-5C5E15982ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCC3539-99A0-4F7B-A9D9-5C5E15982ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCC3539-99A0-4F7B-A9D9-5C5E15982ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCC3539-99A0-4F7B-A9D9-5C5E15982ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
